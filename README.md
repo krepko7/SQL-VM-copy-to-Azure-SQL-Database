@@ -18,7 +18,7 @@ Please see the pre-requisites below and then click the above labs directory to b
 # Other labs you may be interested in
 
 ## Azure Data Factory
-- [Copy SQL data to Azure Data Lake](https://https://github.com/krepko7/Azure-Data-Factory)
+- [Copy SQL data to Azure Data Lake](https://github.com/krepko7/Azure-Data-Factory)
 - [Provision Azure SSIS Integration Runtime](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-deploy-ssis-packages-azure)
 - [Load SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse)
 - [Load Office 365 data](https://docs.microsoft.com/en-us/azure/data-factory/load-office-365-data)
