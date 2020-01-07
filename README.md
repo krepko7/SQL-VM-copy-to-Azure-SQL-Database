@@ -1,8 +1,8 @@
 <img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
 
-# On-prem SQL server to Azure SQL Database using Azure Data Factory
+# SQL server on a VM copy to Azure SQL Database using Azure Data Factory
 
-This workshop will help you become familiar with Azure Data Factory. You will create pipelines to copy data from a SQL Server and load it into Azure Data Lake.
+This workshop will help you become familiar with Azure Data Factory. You will create pipelines to copy data from a SQL Server on a VM into Azure SQL Database (Platform as a Service).
 Please see the pre-requisites below and then click the above labs directory to begin the labs. Thanks!
 
 # Official Documentation
@@ -12,14 +12,13 @@ Please see the pre-requisites below and then click the above labs directory to b
 - [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
 - [Access to SQL Server on a VM in Azure](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs/Lab0%20-%20Set%20up)
 - [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-- [Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
-- [(optional) Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
 - Web browser Edge or Chrome recommended
 
 
 # Other labs you may be interested in
 
 ## Azure Data Factory
+- [Copy SQL data to Azure Data Lake](https://https://github.com/krepko7/Azure-Data-Factory)
 - [Provision Azure SSIS Integration Runtime](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-deploy-ssis-packages-azure)
 - [Load SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse)
 - [Load Office 365 data](https://docs.microsoft.com/en-us/azure/data-factory/load-office-365-data)
