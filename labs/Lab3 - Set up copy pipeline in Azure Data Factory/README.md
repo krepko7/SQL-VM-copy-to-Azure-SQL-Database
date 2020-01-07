@@ -36,6 +36,13 @@ Click next twice and then for your destination pick the Azure SQL DB connection 
 Then pick the person table as the destination and leave the default column mapping and click next a few times until 
 you come to the screen that says Deployment Complete.
 
+<img style="float: right;" src="../../graphics/adfcopyrun.png">
+
+Now click the Monitor button to see your pipeline\job running.
+You should see a screen similar to below.  If you don't see your job\pipeline check your filters on the top right.
+
+<img style="float: right;" src="../../graphics/adfmonitor.png">
+
 Now click the Monitor button to see your pipeline\job running.
 You should see a screen similar to below.  If you don't see your job\pipeline check your filters on the top right.
 
