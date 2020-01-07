@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
 ## Copy data from SQL VM to SQL Paas
-# Lab 3 - Incremental Table Copy - Set up SQL table
+# Lab 4 - Set up copy pipeline in Azure Data Factory
 
 Go back to Data Factory, click the Author item and then click the bottom left Connections menu.
 Create a new Linked Service for your Azure SQL DB you created earlier. Use the Azure SQL DB admin ID and password 
