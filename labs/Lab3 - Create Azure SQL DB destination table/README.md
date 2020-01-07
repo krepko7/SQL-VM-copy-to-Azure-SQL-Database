@@ -29,3 +29,4 @@ and copy and paste into the Query editor or you can copy the file locally to you
 Finally run the query and your Person table should be created.  Check the query messages below your SQL to make sure it ran successfully. 
 You can also expand the Tables folder to the left of the query editor to see if the table now exists.
 
+<img style="float: right;" src="../../graphics/CreateDestinationTable4.png">
