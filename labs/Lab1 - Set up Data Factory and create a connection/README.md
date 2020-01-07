@@ -1,6 +1,6 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
-## Azure Data Factory (ADF) 
+## Copy data from SQL VM to SQL Paas
 # Lab 1 - Set up Azure Data Factory and create a new linked service connection
 
 Create a new Data Factory.  Go to portal.azure.com and click the Create Resource menu item from top left menu.

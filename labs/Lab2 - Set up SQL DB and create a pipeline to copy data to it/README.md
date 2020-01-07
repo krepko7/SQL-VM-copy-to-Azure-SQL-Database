@@ -1,27 +1,33 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
-## Azure Data Factory (ADF) 
-# Lab 2 - Set up Data Lake Storage an ADF connection to it
+## Copy data from SQL VM to SQL Paas
+# Lab 2 - Set up Azure SQL Database and a Data Factory connection to it
 
-Create a Storage Account for your Data Lake.  Go to portal.azure.com and click the Create Resource menu item from top left menu.
+Create an Azure SQL Database (Paas).  Go to portal.azure.com and click the Create Resource menu item from top left menu.
 
 <img style="float: right;" src="../../graphics/createresource.png">
 
-Then pick the Storage category and then click on Storage Account.  Fill in fields for the first screen similar to below.
-Leave other screens as default for lab purposes.
+Then pick the Databases category and then click on SQL Database. 
 
-<img style="float: right;" src="../../graphics/datalakecreate1.png">
+<img style="float: right;" src="../../graphics/createsqldb1.png">
 
-Now go to your newly created storage account and click the Containers option.
+Fill in fields for the first screen similar to below.
 
-<img style="float: right;" src="../../graphics/containers.png">
+<img style="float: right;" src="../../graphics/createsqldb2.png">
 
-From here click the +Container icon at the top and give a lower case name, leave the public access level to "Private" and click OK.
+Click the Configure Database link.
 
-Go to the Storage Account "blade" in Azure portal and clicke the Access keys menu item under the Settings section.
-Just be familiar with this section in case you need the access keys later.
+<img style="float: right;" src="../../graphics/createsqldb3.png">
 
-<img style="float: right;" src="../../graphics/storageaccesskeys.png">
+Click the "Looking for basic, standard, premium?" link at the top left.
+
+<img style="float: right;" src="../../graphics/createsqldb4.png">
+
+From here you can pick a configuration that is less than $10 per month and click the Apply button.
+Click the Review and Create button and after reviewing click the Create button.
+
+
+
 
 Now go back to Data Factory, click the Author item and then click the bottom left Connections menu.
 Create a new Linked Service for your data lake.

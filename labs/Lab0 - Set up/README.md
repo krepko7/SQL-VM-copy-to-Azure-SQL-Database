@@ -1,6 +1,6 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
-## Azure Data Factory (ADF) 
+## Copy data from SQL VM to SQL Paas
 # Lab 0 - Set up
 
 Restore the Retail database to a SQL Server on a VM in Azure.  
