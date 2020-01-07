@@ -39,7 +39,10 @@ The name of your linked service is important since you will end up with many of 
 You will later create data sets based on these linked services. 
 Leave the Connect Via integration runtime (IR) drop down as "autoresolveintegrationruntime".  See more about IR's at https://docs.microsoft.com/en-us/azure/data-factory/create-azure-integration-runtime
 
+SQL Authentication password is: TopSecret@1926
+
 Make sure to test the connection before you proceed.
+
 
 <img style="float: right;" src="../../graphics/adfsqllinkedservice.png">
 
