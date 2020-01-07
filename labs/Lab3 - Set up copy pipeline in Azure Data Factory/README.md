@@ -4,18 +4,19 @@
 # Lab 3 - Incremental Table Copy - Set up SQL table
 
 Go back to Data Factory, click the Author item and then click the bottom left Connections menu.
-Create a new Linked Service for your Azure SQL DB you created earlier.
+Create a new Linked Service for your Azure SQL DB you created earlier. Use the Azure SQL DB admin ID and password 
+you used in the earlier lab when you set up the Azure SQL DB.
+
+Click the create button.
 
 <img style="float: right;" src="../../graphics/azuresqlconnection1.png">
 
-
-
-
-Click the ellipses next to Pipelines and create a new folder to keep things organized
+Now in Azure Data Factory click the ellipses next to Pipelines and create a new folder to keep things organized.
+Call the folder anything you like.  Example "Data Factory Lab".
 
 <img style="float: right;" src="../../graphics/pipelinefolder.png">
 
-Then click the ellipses next to Pipelines and pick the Copy Data option
+Click the plus icon to the right of the "Filter resources by name" input box and pick the Copy Data option.
 
 <img style="float: right;" src="../../graphics/adfcopydata.png">
 
