@@ -31,3 +31,13 @@ or click it when finished to go to the newly set up SQL DB.
 
 <img style="float: right;" src="../../graphics/createsqldb5.png">
 
+Now go to the Azure SQL DB and set up your firewall rules.
+
+<img style="float: right;" src="../../graphics/SQLsettings1.png">
+
+Add your client IP and also pick the Allow Azure services and resources to access this server option.
+
+<img style="float: right;" src="../../graphics/SQLsettings2.png">
+
+
+

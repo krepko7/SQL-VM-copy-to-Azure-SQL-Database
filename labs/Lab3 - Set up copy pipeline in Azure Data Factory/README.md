@@ -6,7 +6,9 @@
 Go back to Data Factory, click the Author item and then click the bottom left Connections menu.
 Create a new Linked Service for your Azure SQL DB you created earlier.
 
-<img style="float: right;" src="../../graphics/datalakelinkedservice1.png">
+<img style="float: right;" src="../../graphics/azuresqlconnection1.png">
+
+
 
 
 Click the ellipses next to Pipelines and create a new folder to keep things organized
