@@ -15,3 +15,17 @@ Once you are in the SQL Server click on the SQL Database like the image shows be
 you created earlier.
 
 <img style="float: right;" src="../../graphics/CreateDestinationTable1.png">
+
+Now click the Query editor and log in with your SQL Auth credentials which are the admin ID and password you used to set up the
+Azure DB earlier. 
+
+<img style="float: right;" src="../../graphics/CreateDestinationTable2.png">
+
+You have a couple choices to get the SQL script to create the destination table.  Either open the "Create Person Table.SQL" in GitHub 
+and copy and paste into the Query editor or you can copy the file locally to your laptop and then open it in the query editor like show here:
+
+<img style="float: right;" src="../../graphics/CreateDestinationTable3.png">
+
+Finally run the query and your Person table should be created.  Check the query messages below your SQL to make sure it ran successfully. 
+You can also expand the Tables folder to the left of the query editor to see if the table now exists.
+
