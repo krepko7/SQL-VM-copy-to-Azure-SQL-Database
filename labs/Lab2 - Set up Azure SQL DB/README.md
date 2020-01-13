@@ -11,7 +11,8 @@ Then pick the Databases category and then click on SQL Database.
 
 <img style="float: right;" src="../../graphics/createsqldb1.png">
 
-Fill in fields for the first screen similar to below.
+Fill in fields for the first screen similar to below. For the new server (it's actually not a server but a way to group databases)
+give an ID and Password that you will remember.
 
 <img style="float: right;" src="../../graphics/createsqldb2.png">
 
